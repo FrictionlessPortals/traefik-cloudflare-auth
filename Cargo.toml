@@ -1,0 +1,10 @@
+[package]
+name = "traefik-cloudflare-auth"
+version = "0.1.0"
+authors = ["FrictionlessPortals <8077147+frictionlessportals@users.noreply.github.com>"]
+description = "Auth server to verify Cloudflare Access JWT tokens for Traefik"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
